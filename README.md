@@ -19,12 +19,12 @@
 
 <!-- Icons section with alternative LinkedIn icon -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez" style="text-decoration: none; border: none; outline: none; display: inline-block; width: 32px; padding: 0; vertical-align: middle;">
-    <img width="32px" height="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="vertical-align: middle;"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:nmarqueznarvaez@gmail.com" style="text-decoration: none; border: none; outline: none; display: inline-block; padding: 0; vertical-align: middle;">
     <img width="32px" height="32px" alt="Gmail" title="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="vertical-align: middle;"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez" style="text-decoration: none; border: none; outline: none; display: inline-block; width: 32px; padding: 0; vertical-align: middle;">
+    <img width="32px" height="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="vertical-align: middle;"/>
   </a>
 </p>
 
