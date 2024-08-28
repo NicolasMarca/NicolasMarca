@@ -72,7 +72,7 @@ profile = {
       <h4><samp>Project 1: Process Automation and Data Analysis Application</samp></h4>
       <ul>
         <samp>
-          <li><strong>Project Description:</strong> Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. The dashboard allows the user to adjust forecasts based on different scenarios, web scrape for relevant data, and analyze and clean datasets, ultimately improving operational efficiency and saving time.</li>
+          <li><strong>Project Description:</strong> Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. The dashboard allows the user to adjust forecasts based on different scenarios, web scrape for relevant data, and analyze and clean datasets.</li>
           <li><strong>Key libraries:</strong> Streamlit, Pandas, NumPy, BeautifulSoup, Scipy, Requests, Plotly.</li>
           <li><strong>Impact:</strong> The application significantly reduced the time required for data processing and reporting, enabling the business to make data-driven decisions more quickly.</li>
         </samp>
