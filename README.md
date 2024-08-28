@@ -65,9 +65,10 @@ profile = {
 
 
 <!-- Project 1 -->
-<table>
+<!-- Project 1 -->
+<table style="width: 100%;">
   <tr>
-    <td style="padding-right: 20px; vertical-align: top;">
+    <td style="width: 40%; padding-right: 20px; vertical-align: top;">
       <h4><samp>Project 1: Process Automation and Data Analysis Application</samp></h4>
       <ul>
         <samp>
@@ -77,7 +78,7 @@ profile = {
         </samp>
       </ul>
     </td>
-    <td>
+    <td style="width: 60%;">
       <img src="Assets/yachaywa_app.png" alt="[Project Name] Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 5px;" />
     </td>
   </tr>
