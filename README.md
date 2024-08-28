@@ -17,11 +17,11 @@
 
 <!-- Icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez" style="text-decoration: none; border: none; outline: none;">
     <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:nmarqueznarvaez@gmail.com" style="text-decoration: none;">
+  <a href="mailto:nmarqueznarvaez@gmail.com" style="text-decoration: none; border: none; outline: none;">
     <img width="32px" alt="Gmail" title="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
   </a>
 </p>
@@ -39,7 +39,7 @@
 
 <hr>
 
-<h3 align="center"> 🧑‍💼 Professional Overview</h3>
+<h3 align="center"> 📋 Detailed Overview</h3>
 
 
 ```python
