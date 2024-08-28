@@ -75,7 +75,7 @@ profile = {
       </ul>
     </td>
     <td style="width: 60%;">
-      <img src="Assets/yachaywa_app.png" alt="[Project Name] Screenshot" style="max-width: 100%; min-width: 400px; border: 1px solid #ddd; border-radius: 5px;" />
+      <img src="Assets/yachaywa_app.png" width="400px" alt="[Project Name] Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 5px;" />
     </td>
   </tr>
 </table>
