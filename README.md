@@ -65,21 +65,24 @@ profile = {
 
 
 <!-- Project 1 -->
-<div style="display: flex; align-items: center; justify-content: center; border: 1px solid #ddd; padding: 20px;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h5><samp>Project 1: Process Automation and Data Analysis Application</samp></h5>
-    <ul>
-      <samp>
-        <li><strong>Project Description:</strong> Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. The dashboard allows the user to adjust forecasts based on different scenarios, web scrape for relevant data, and analyze and clean datasets, ultimately improving operational efficiency and saving time.</li>
-        <li><strong>Key libraries</strong>: Streamlit, Pandas, NumPy, BeautifulSoup, Scipy, Requests, Plotly.</li>
-        <li><strong>Impact</strong>: The application significantly reduced the time required for data processing and reporting, enabling the business to make data-driven decisions more quickly.</li>
-      </samp>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <img src="Assets/yachaywa_app.png" alt="[Project Name] Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 5px;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <h4><samp>Project 1: Process Automation and Data Analysis Application</samp></h4>
+      <ul>
+        <samp>
+          <li><strong>Project Description:</strong> Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. The dashboard allows the user to adjust forecasts based on different scenarios, web scrape for relevant data, and analyze and clean datasets, ultimately improving operational efficiency and saving time.</li>
+          <li><strong>Key libraries:</strong> Streamlit, Pandas, NumPy, BeautifulSoup, Scipy, Requests, Plotly.</li>
+          <li><strong>Impact:</strong> The application significantly reduced the time required for data processing and reporting, enabling the business to make data-driven decisions more quickly.</li>
+        </samp>
+      </ul>
+    </td>
+    <td>
+      <img src="Assets/yachaywa_app.png" alt="[Project Name] Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 5px;" />
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- Disclaimer -->
