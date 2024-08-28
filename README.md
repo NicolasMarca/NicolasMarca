@@ -16,15 +16,18 @@
 
 
 <!-- Icons section -->
+
+<!-- Icons section with alternative LinkedIn icon -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez" style="text-decoration: none; border: none; outline: none; display: inline-block; line-height: 0; font-size: 0; padding: 0;">
-    <img width="32px" height="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez" style="text-decoration: none; border: none; outline: none; display: inline-block; padding: 0; vertical-align: middle;">
+    <img width="32px" height="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="vertical-align: middle;"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:nmarqueznarvaez@gmail.com" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img width="32px" height="32px" alt="Gmail" title="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
+  <a href="mailto:nmarqueznarvaez@gmail.com" style="text-decoration: none; border: none; outline: none; display: inline-block; padding: 0; vertical-align: middle;">
+    <img width="32px" height="32px" alt="Gmail" title="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="vertical-align: middle;"/>
   </a>
 </p>
+
 
 
 <hr>
