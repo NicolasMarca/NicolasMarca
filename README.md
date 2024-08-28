@@ -88,7 +88,7 @@ profile = {
       <h4><samp>Project 2: Interactive Market Analysis Report (Expected Release September 2024)</samp></h4>
       <ul>
         <samp>
-          <li><strong>Project Description:</strong> Developed an interactive report to draw insights from a market analysis of remittances in Belgium, designed to be embedded and displayed on a website. The report allows users to explore data interactively, displaying graphs and visualizations that make the insights clear and accessible. The analysis is based on <a href="https://belgium.iom.int/remittances-belgium-key-data"> two previous studies </a> conducted by me, were I employed advanced statistical techniques to analyze the cause-and-effect relationships within the remittance market in Belgium. For this purpose, I constructed a comprehensive database and established an ETL process to manage and integrate the data effectively.</li>
+          <li><strong>Project Description:</strong> Developed an interactive report to draw insights from a market analysis of remittances in Belgium, designed to be embedded and displayed on a website. The report allows users to explore data interactively, displaying graphs and visualizations that make the insights clear and accessible. The analysis is based on <a href="https://belgium.iom.int/remittances-belgium-key-data"> two previous studies</a>  were I employed advanced statistical techniques to analyze the cause-and-effect relationships within the remittance market in Belgium. For this purpose, I constructed a comprehensive database and established an ETL process to manage and integrate the data effectively.</li>
           <li><strong>Key Technologies Used:</strong> Pandas, NumPy, Seaborn, Plotly (express, graph_objects, subplots), Bar Chart Race, GeoPandas, Pretty Jupyter, Jinja, HTML, CSS.</li>
           <li><strong>Expected Outcome:</strong> To provide stakeholders with a clearer understanding of the remittance market dynamics in Belgium. By enabling the exploration of data in an interactive format, its aim is to enhance the decision-making processes and allow for more targeted interventions in the market.</li>
         </samp>
@@ -105,7 +105,7 @@ profile = {
 <!-- Disclaimer -->
 <p align="center">
   <samp>
-  <em>Note: These projects are internal and confidential, so the source code cannot be shared publicly. However, I am open to discussing them in detail and am currently working on adapting some projects for public release.</em></samp>
+  <em>Note: As these are internal projects the source code cannot be shared publicly. However, I am open to discussing them in detail and I am currently working on adapting some projects for public release.</em></samp>
 </p>
 
 
