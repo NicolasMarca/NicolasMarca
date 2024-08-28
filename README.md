@@ -17,16 +17,16 @@
 
 <!-- Icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez">
+  <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez" style="text-decoration: none;">
     <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:nmarqueznarvaez@gmail.com">
+  <a href="mailto:nmarqueznarvaez@gmail.com" style="text-decoration: none;">
     <img width="32px" alt="Gmail" title="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
   </a>
 </p>
 
-<br/>
+<hr>
 
 <h3 align="center"> 👨‍💻 About Me</h3>
 <p align="center">
@@ -37,9 +37,28 @@
   <img src="https://komarev.com/ghpvc/?username=NicolasMarca" alt="Profile Views" />
 </p>
 
-
 <hr>
 
+<h3 align="center"> 🧑‍💼 Professional Overview</h3>
+
+
+```python
+profile = {
+    "Name": "Nicolás Márquez",
+    "Current Role": "Data Analytics Consultant",
+    "Nationality": "Bolivian",
+    "Languages": ["Spanish (Native)", "English (C1)", "German (B1)", "French (B1)"],
+    "Technical Proficiencies": {
+        "Programming & Scripting Languages": ["Python", "R", "SQL", "HTML", "CSS"],
+        "Data Visualization Tools": ["Power BI", "Tableau"],
+        "Database Management": ["MySQL", "SQL Server"],
+        "Statistical & Analytical Software": ["STATA", "R"],
+        "Automation & ETL Tools": ["Python", "Power Automate"]
+    }
+}
+```
+
+</p>
 
 <hr>
 
