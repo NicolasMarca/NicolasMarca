@@ -61,7 +61,7 @@ class Nicolas:
         }
         
     def __str__(self):
-        return f'{self.name} | {self.position}'
+        return f'{self.name} | {self.position} | {self.nationality}'
 
 
 if __name__ == '__main__':
