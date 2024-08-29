@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3 align="center"> 👨‍💻 About Me</h3>
+<h3 align="center"> 👨‍💻 About me</h3>
 <p align="center">
   <samp>
     I am an experienced Consultant and Data Analyst with a strong background in leveraging advanced statistics and data analytics to drive impactful outcomes. My career has spanned various sectors, including banking, international organizations, and the private sector. I have a deep passion for transforming raw data into actionable insights that can guide strategic decisions. Currently, I am working as a Data Analytics Consultant for the United Nations Migration (IOM), where I specialize in optimizing data processes, doing research and providing measurable outcomes that support global initiatives.
@@ -36,23 +36,33 @@
 
 <hr>
 
-<h3 align="center"> 📋 Detailed Overview</h3>
+<h3 align="center"> 📋 How I would define myself</h3>
 
 
 ```python
-profile = {
-    "Name": "Nicolás Márquez",
-    "Current Role": "Data Analytics Consultant",
-    "Nationality": "Bolivian",
-    "Languages": ["Spanish (Native)", "English (C1)", "German (B1)", "French (B1)"],
-    "Technical Proficiencies": {
-        "Programming & Scripting Languages": ["Python", "R", "SQL", "HTML", "CSS"],
-        "Data Visualization Tools": ["Power BI", "Tableau"],
-        "Database Management": ["MySQL", "SQL Server"],
-        "Statistical & Analytical Software": ["STATA", "R"],
-        "Automation & ETL Tools": ["Python", "Power Automate"]
-    }
-}
+class Nicolas:
+
+    def __init__(self):
+        self.name = 'Nicolás Márquez'
+        self.position = 'Data Analytics Consultant'
+        self.nationality = 'Bolivian'
+        self.skill_set = {
+            'programming_scripting_languages': ['Python', 'R', 'SQL', 'HTML', 'CSS'],
+            'data_visualization': ['Power BI', 'Tableau', 'Plotly', 'Seaborn', 'Matplotlib', 'Streamlit'],
+            'database_management': ['MySQL', 'SQL Server'],
+            'statistical_analysis': ['Python', 'STATA', 'R', 'Scipy', 'Statsmodels'],
+            'machine_learning': ['Sklearn', 'Tensorflow'],
+            'automation_etl': ['Python', 'Power Automate'],
+            'data_manipulation': ['Numpy', 'Pandas']
+        }
+        
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = Nicolas()
+    print(me)
 ```
 
 </p>
@@ -136,7 +146,7 @@ profile = {
 
 <hr>
 
-<h4 align="center">🤝 Connect with Me</h4>
+<h4 align="center">🤝 Connect with me</h4>
 
 
 <p align="center">
