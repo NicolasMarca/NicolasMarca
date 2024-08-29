@@ -130,9 +130,21 @@ profile = {
 <!-- Disclaimer -->
 <p align="center">
   <samp>
-  <em>Note: As these are internal projects the source code cannot be shared publicly. However, I am open to discussing them in detail and I am currently working on adapting some projects for public release.</em></samp>
+  <em>Note: As these are internal projects the source code cannot be shared publicly, however, I am quite open to discussing about them. I am currently working on adapting some projects for public release.</em></samp>
 </p>
 
+
+<hr>
+
+<h4 align="center">🤝 Connect with Me</h4>
+
+
+<p align="center">
+  <samp>
+  <em>I'm always interested in collaborating on innovative projects or discussing data-driven solutions. Feel free to connect with me on <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez">Linkedin</a> or reach out via <a href="mailto:nmarqueznarvaez@gmail.com">email</a>.
+</samp>
+</p>
+<hr>
 
 
 
