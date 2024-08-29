@@ -25,6 +25,8 @@
 
 <hr>
 
+<!-- About me section -->
+
 <h3 align="center"> 👨‍💻 About me</h3>
 <p align="center">
   <samp>
@@ -35,6 +37,8 @@
 </p>
 
 <hr>
+
+<!-- Define myself section -->
 
 <h3 align="center"> 📋 How I would define myself</h3>
 
@@ -68,6 +72,8 @@ if __name__ == '__main__':
 </p>
 
 <hr>
+
+<!-- Project section -->
 
 <h3 align="center">📂 Some of my projects</h3>
 
@@ -145,6 +151,7 @@ if __name__ == '__main__':
 
 
 <hr>
+<!-- End section -->
 
 <h4 align="center">🤝 Connect with me</h4>
 
