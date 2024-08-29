@@ -65,17 +65,17 @@ profile = {
 <!-- Project 1 -->
 <table>
   <tr>
-    <td width="40%" style="padding-right: 20px;">
+    <td width="45%" style="padding-right: 20px;">
       <h4><samp>Project 1: Process Automation and Data Analysis Application</samp></h4>
       <ul>
         <samp>
           <li><strong>Project Description:</strong> Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. The dashboard allows the user to adjust forecasts based on different scenarios, web scrape for relevant data, and analyze and clean datasets.</li>
           <li><strong>Key libraries:</strong> Streamlit, Pandas, NumPy, BeautifulSoup, Scipy, Requests, Plotly.</li>
-          <li><strong>Impact:</strong> The application significantly reduced the time required for data processing and reporting, enabling the business to make data-driven decisions more quickly.</li>
+          <li><strong>Impact:</strong> The application significantly reduced the time required for data processing and reporting, enabling the firm to make data-driven decisions more quickly.</li>
         </samp>
       </ul>
     </td>
-    <td width="60%">
+    <td width="55%">
       <img src="Assets/yachaywa_app.png" height="auto" alt="Yachaywa" style="border: 1px solid #ddd; border-radius: 5px;"  />
     </td>
   </tr>
@@ -84,7 +84,7 @@ profile = {
 <!-- Project 2 -->
 <table>
   <tr>
-    <td width="40%" style="padding-right: 20px;">
+    <td width="45%" style="padding-right: 20px;">
       <h4><samp>Project 2: Interactive Market Analysis Report (Expected Release September 2024)</samp></h4>
       <ul>
         <samp>
@@ -94,13 +94,38 @@ profile = {
         </samp>
       </ul>
     </td>
-    <td width="60%">
+    <td width="55%">
       <img src="Assets/OREMIT_1.png" height="auto" alt="Yachaywa" style="border: 1px solid #ddd; border-radius: 5px;"  />
       <img src="Assets/OREMIT_2.png" height="auto" alt="Yachaywa" style="border: 1px solid #ddd; border-radius: 5px;"  />      
     </td>
   </tr>
 </table>
 
+
+<!-- Project 3 -->
+<table>
+  <tr>
+    <td width="45%" style="padding-right: 20px;">
+      <h4><samp>Project 3: Automated Report Generation System</samp></h4>
+      <ul>
+        <samp>
+          <li><strong>Project Description:</strong> Developed an automated report generation system to establish a consistent and efficient framework for generating analytical reports based on selected indicators and IDs. The system utilizes a standardized template to quickly generate reports that include KPIs, trend analysis, and key statistics.</li>
+          <li><strong>Key Technologies Used:</strong> SQL, Python, Pandas, Matplotlib, Seaborn, NumPy, Docxtpl (for report templating), Jinja (for templating), OpenAI API.</li>
+          <li><strong>Impact:</strong> The automated report generation system aim was to improve the efficiency of generating actionable insights and to facilitate more timely analysis and decision-making.
+</li>
+        </samp>
+      </ul>
+    </td>
+    <td align="center" width="27.5%">
+      <samp><strong>Report Jinja2 Template (Pg 1)</strong></samp>
+      <img src="Assets/hmcs_1.png" width="100%" height="auto" alt="Yachaywa" style="border: 1px solid #ddd; border-radius: 5px;"  />      
+    </td>
+        <td align="center" width="27.5%">
+      <samp><strong>Example India (Pg 1)</strong></samp>
+      <img src="Assets/hmcs_2.png" width="100%" height="auto" alt="Yachaywa" style="border: 1px solid #ddd; border-radius: 5px;"  />      
+    </td>
+  </tr>
+</table>
 
 <!-- Disclaimer -->
 <p align="center">
