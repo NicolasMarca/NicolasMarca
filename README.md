@@ -101,7 +101,7 @@ if __name__ == '__main__':
 <table>
   <tr>
     <td width="45%" style="padding-right: 20px;">
-      <h4><samp>Project 2: Interactive Market Analysis Report (Expected Release September 2024)</samp></h4>
+      <h4><samp>Project 2: Interactive Data Analysis Report (Expected Release September 2024)</samp></h4>
       <ul>
         <samp>
           <li><strong>Project Description:</strong> Developed an interactive report to draw insights from a market analysis of remittances in Belgium, designed to be embedded and displayed on a website. The report allows users to explore data interactively, displaying graphs and visualizations that make the insights clear and accessible. The analysis is based on <a href="https://belgium.iom.int/remittances-belgium-key-data"> two previous studies</a>  were I employed advanced statistical techniques to analyze the cause-and-effect relationships within the remittance market in Belgium. For this purpose, I constructed a comprehensive database and established an ETL process to manage and integrate the data effectively.</li>
