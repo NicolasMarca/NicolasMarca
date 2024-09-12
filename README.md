@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/NicolasMarca/NicolasMarca">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&width=470&lines=Data+Analytics+%26+Data+Science;Data+Viz%2C+Advanced+Stats+%26+Optimization;From+Data%2C+To+Impact" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&width=470&lines=Data+Analytics+%26+Data+Science;Data+Viz%2C+Advanced+Stats+%26+Optimization;From+Data%2C+To+Impact" alt="Typing SVG" style="display: block; margin: 0 auto;"/>
   </a>
 </p>
 
