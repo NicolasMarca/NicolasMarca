@@ -21,6 +21,9 @@
   <a href="mailto:nmarqueznarvaez@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/nicolasmarqueznarvaez"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://nicolasmarca.github.io/"><img width="32px" alt="MyWebsite" title="MyWebsite" src="https://cdn-icons-png.flaticon.com/512/25/25694.png"/>
+  </a>  
 </p>
 
 <hr>
