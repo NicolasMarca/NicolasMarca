@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/NicolasMarca/NicolasMarca">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&width=470&lines=Experienced+Consultant+%26+Data+Analyst;Data+Viz%2C+Advanced+Stats+%26+Optimization;Driving+Insightful%2C+Measurable+Outcomes" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&width=470&lines=Data+Analytics+%26+Data+Science;Data+Viz%2C+Advanced+Stats+%26+Optimization;From+Data%2C+To+Impact" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <h3 align="center"> 👨‍💻 About me</h3>
 <p align="center">
   <samp>
-    I am an experienced Consultant and Data Analyst with a strong background in leveraging advanced statistics and data analytics to drive impactful outcomes. My career has spanned various sectors, including banking, international organizations, and the private sector. I have a deep passion for transforming raw data into actionable insights that can guide strategic decisions. Currently, I am working as a Data Analytics Consultant for the United Nations Migration (IOM), where I specialize in optimizing data processes, doing research and providing measurable outcomes that support global initiatives.
+    Hello there! My name is Nicolás Márquez I consider myself a data enthusiast with a strong background in leveraging advanced statistics and data to drive impactful outcomes. My career has spanned various sectors, including banking, international organizations, and the private sector. I have a deep passion for transforming raw data into actionable insights that can guide strategic decisions. Currently, I am working as a Data Analytics Consultant for the United Nations Migration (IOM), where I specialize in optimizing data processes, doing research and providing measurable outcomes that support global initiatives.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=NicolasMarca" alt="Profile Views" />
