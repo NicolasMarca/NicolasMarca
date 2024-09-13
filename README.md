@@ -33,7 +33,7 @@
 <h3 align="center"> 👨‍💻 About me</h3>
 <p align="center">
   <samp>
-    Hello there! My name is Nicolás Márquez I consider myself a data enthusiast with a strong background in leveraging advanced statistics and data to drive impactful outcomes. My career has spanned various sectors, including banking, international organizations, and the private sector. I have a deep passion for transforming raw data into actionable insights that can guide strategic decisions. Currently, I am working as a Consultant for the United Nations Migration (IOM), where I specialize in optimizing data processes, doing research and providing measurable outcomes that support global initiatives.
+    Hello there! My name is Nicolás Márquez I consider myself a data enthusiast with a strong background in leveraging advanced statistics and data to drive impactful outcomes. My career has spanned various sectors, including banking, international organizations, and the private sector. I have a deep passion for transforming raw data into actionable insights that can guide strategic decisions. Currently, I am working as a Consultant for the United Nations Migration (IOM) <a href="https://belgium.iom.int/o-remit">O-REMIT Project</a>, where I am involved in data analysis, data collection, doing research and providing measurable outcomes that support global initiatives.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=NicolasMarca" alt="Profile Views" />
