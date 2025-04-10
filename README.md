@@ -4,13 +4,15 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/NicolasMarca/NicolasMarca">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=1F51FF&width=200&lines=Nicolás+Márquez" alt="Typing SVG" />
+      <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=1F51FF&width=200&lines=Nicolás+Márquez" alt="Typing SVG" />-->
+      <img src="Assets/name.svg" alt="Typing SVG 1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NicolasMarca/NicolasMarca">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&width=287&lines=Data+Analytics+%26+Science;Data+Viz%2C+Advanced+Stats;&nbsp;&nbsp;From+Data%2C+To+Impact" alt="Typing SVG" style="display: block; margin: 0 auto;"/>
+      <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F51FF&width=287&lines=Data+Analytics+%26+Science;Data+Viz%2C+Advanced+Stats;&nbsp;&nbsp;From+Data%2C+To+Impact" alt="Typing SVG" style="display: block; margin: 0 auto;"/> -->
+      <img src="Assets/titles.svg" alt="Typing SVG 2" style="display: block; margin: 0 auto;"/>      
   </a>
 </p>
 
