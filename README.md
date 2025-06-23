@@ -49,29 +49,25 @@
 
 
 ```python
+@dataclass
 class Nicolas:
-
-    def __init__(self):
-        self.name = 'Nicolás Márquez'
-        self.position = 'Data Analytics Consultant'
-        self.nationality = 'Bolivian'
-        self.skill_set = {
-            'programming_scripting_languages': ['Python', 'R', 'SQL', 'HTML', 'CSS'],
-            'data_visualization': ['Power BI', 'Tableau', 'Plotly', 'Seaborn', 'Matplotlib', 'Streamlit'],
-            'database_management': ['MySQL', 'SQL Server'],
-            'statistical_analysis': ['Python', 'STATA', 'R', 'Scipy', 'Statsmodels'],
-            'machine_learning': ['Sklearn', 'Tensorflow'],
-            'automation_etl': ['Python', 'Power Automate'],
-            'data_manipulation': ['Numpy', 'Pandas']
+    name: str = "Nicolás Márquez"
+    title: str = "Data Analytics Consultant"
+    nationality: str = "Bolivian"
+    software: List[str] = field(
+        default_factory=lambda: ["Python", "R", "SQL", "Stata", "HTML", "CSS"]
+    )
+    tools: Dict[str, List[str]] = field(
+        default_factory=lambda: {
+            "Data Manipulation": ["pandas", "numpy", "dplyr", "tidyr"],
+            "Visualization": ["Power BI", "Tableau", "plotly", "seaborn", "matplotlib", "streamlit", "ggplot2", "shiny"],
+            "Databases": ["MySQL", "SQL Server"],
+            "Stat & ML": ["statsmodels", "scipy", "sklearn", "tensorflow"],
         }
-        
-    def __str__(self):
-        return f'{self.name} | {self.position} | {self.nationality}'
+    )
 
-
-if __name__ == '__main__':
-    me = Nicolas()
-    print(me)
+    def __str__(self) -> str:
+        return f"{self.name} | {self.title} | {self.nationality}"
 ```
 
 </p>
